@@ -1,0 +1,11 @@
+{
+  "name": "lisa-telegram-bot",
+  "version": "1.0.0",
+  "description": "Lisa Group Manager Telegram Bot",
+  "main": "bot.py",
+  "scripts": {
+    "start": "pip3 install -r requirements.txt && python3 bot.py"
+  },
+  "dependencies": {}
+}
+
